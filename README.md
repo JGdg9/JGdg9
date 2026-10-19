@@ -38,5 +38,4 @@ I’m currently completing my second year of Multiplatform Application Developme
 ## Contact
 
 - **Email:** [jguillermodg04@gmail.com](mailto:jguillermodg04@gmail.com)
-- **Phone:** [697970160](tel:697970160)
 - **LinkedIn:** [Juan Guillermo Domínguez Guzmán](https://www.linkedin.com/in/juan-guillermo-dom%C3%ADnguez-guzm%C3%A1n-1924342b2/)
