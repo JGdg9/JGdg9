@@ -1,5 +1,3 @@
-<img align="left" width="130" src="https://github.com/user-attachments/assets/9f676890-a0d4-419c-b3bc-3b9b7d4d09cb" alt="Juan Guillermo Domínguez Guzmán" />
-
 ### Juan Guillermo Domínguez Guzmán
 
 **Second-year DAM student · Master's student in AI & Big Data**
