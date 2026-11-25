@@ -2,23 +2,31 @@
 
 **Software Developer · Málaga, Spain**
 
-I'm Guille. I build web applications and REST APIs with Python and Node.js. My recent projects include CódigoClaro, a platform for learning programming through practice, and GarageTrack, an app for keeping track of vehicle maintenance and costs.
+I'm Guille. I build web applications and REST APIs with Python and Node.js. Two of my recent projects are CódigoClaro, where people can learn programming through practice, and GarageTrack, where vehicle owners can keep track of maintenance and expenses.
 
-[Portfolio](https://jgdg9.github.io/JGdg9/) · [LinkedIn](https://www.linkedin.com/in/juan-guillermo-dom%C3%ADnguez-guzm%C3%A1n-1924342b2/) · [Email me](mailto:jguillermodg04@gmail.com) . [Portfolio](https://jgdg9.github.io/JGdg9/)
+[Portfolio](https://jgdg9.github.io/JGdg9/) · [LinkedIn](https://www.linkedin.com/in/juan-guillermo-dom%C3%ADnguez-guzm%C3%A1n-1924342b2/) · [Email me](mailto:jguillermodg04@gmail.com)
 
 ## Featured projects
 
 ### CódigoClaro · Learn programming by doing
 
+[![CódigoClaro repository card](https://github-readme-stats.vercel.app/api/pin/?username=JGdg9&repo=CodigoClaro&theme=default&title_color=42632E&icon_color=608540)](https://github.com/JGdg9/CodigoClaro)
+
 I built CódigoClaro to bring lessons, exercises and quizzes into one place. Learners can follow a programming path, write code in the educational IDE, review lessons as PDFs and get immediate feedback on quizzes.
+
+**Built with:** Node.js, JavaScript and SQLite.
 
 [Try CódigoClaro](https://codigoclaro.onrender.com) · [Browse the code](https://github.com/JGdg9/CodigoClaro)
 
 ### GarageTrack · Vehicle maintenance and expenses
 
-GarageTrack keeps each vehicle's service history and costs together. I built the REST API with Python and FastAPI and used MySQL to link service records to vehicles. The API preserves that history by preventing the deletion of a vehicle that still has maintenance records.
+[![GarageTrack repository card](https://github-readme-stats.vercel.app/api/pin/?username=JGdg9&repo=GarageTrack&theme=default&title_color=276B91&icon_color=3776AB)](https://github.com/JGdg9/GarageTrack)
 
-[![GarageTrack dashboard showing vehicle maintenance and expenses](https://raw.githubusercontent.com/JGdg9/GarageTrack/main/frontend/assets/dashboard.png)](https://garagetrack-demo.onrender.com/)
+GarageTrack keeps each vehicle’s service history and costs together. I built the REST API with Python and FastAPI and used MySQL to link service records to vehicles. The API stores costs with decimal precision and prevents deleting a vehicle that still has maintenance records.
+
+**Built with:** Python, FastAPI, SQLAlchemy and MySQL.
+
+[![GarageTrack dashboard showing vehicles, maintenance records and expenses](https://raw.githubusercontent.com/JGdg9/GarageTrack/main/frontend/assets/dashboard.png)](https://garagetrack-demo.onrender.com/)
 
 [Explore the read-only demo](https://garagetrack-demo.onrender.com/) · [View the API docs](https://garagetrack-demo.onrender.com/docs) · [Browse the code](https://github.com/JGdg9/GarageTrack)
 
@@ -82,11 +90,16 @@ Alongside backend development, I'm exploring Android development with Java and K
 
 ## GitHub activity
 
-![GitHub statistics for JGdg9](https://github-readme-stats.vercel.app/api?username=JGdg9&show_icons=true&include_all_commits=true&hide_border=true&theme=default)
+### Contribution streak
+
+
+[![Current streak, longest streak and total contributions for JGdg9](https://streak-stats.demolab.com?user=JGdg9&theme=default&ring=608540&fire=E57732&currStreakLabel=42632E)](https://github.com/JGdg9?tab=overview)
+
+### Contribution graph
 
 ![Contribution activity for JGdg9](https://github-readme-activity-graph.vercel.app/graph?username=JGdg9&theme=github-light&hide_border=true)
 
-[View my contribution history](https://github.com/JGdg9?tab=overview)
+[View my contribution history on GitHub](https://github.com/JGdg9?tab=overview)
 
 [sql-badge]: https://img.shields.io/badge/SQL-276B91?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiPjxlbGxpcHNlIGN4PSIxNiIgY3k9IjYiIHJ4PSIxMCIgcnk9IjMiLz48cGF0aCBkPSJNNiA2djEyYzAgNCAyMCA0IDIwIDBWNk02IDEyYzAgNCAyMCA0IDIwIDAiLz48L3N2Zz4%3D
 [plsql-badge]: https://img.shields.io/badge/PL%2FSQL-A63C30?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMiAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSJ3aGl0ZSIgc3Ryb2tlLXdpZHRoPSIyLjQiPjxyZWN0IHg9IjUiIHk9IjciIHdpZHRoPSIyMiIgaGVpZ2h0PSIxMSIgcng9IjUuNSIvPjwvc3ZnPg%3D%3D
