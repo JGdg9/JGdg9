@@ -10,25 +10,40 @@ I'm Guille. I build web applications and REST APIs with Python and Node.js. Two 
 
 ### CódigoClaro · Learn programming by doing
 
-[![CódigoClaro repository card](https://github-readme-stats.vercel.app/api/pin/?username=JGdg9&repo=CodigoClaro&theme=default&title_color=42632E&icon_color=608540)](https://github.com/JGdg9/CodigoClaro)
-
-I built CódigoClaro to bring lessons, exercises and quizzes into one place. Learners can follow a programming path, write code in the educational IDE, review lessons as PDFs and get immediate feedback on quizzes.
+CódigoClaro is an interactive platform for learning programming. Learners can follow a guided path, write and run code in the browser, and test what they've learned with quizzes that give immediate feedback. Lessons are also available as PDFs for offline review.
 
 **Built with:** Node.js, JavaScript and SQLite.
+
+<a href="https://github.com/JGdg9/CodigoClaro">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JGdg9&amp;repo=CodigoClaro&amp;theme=github_dark&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=A8D88C&amp;text_color=E6EDF3&amp;icon_color=A8D88C">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JGdg9&amp;repo=CodigoClaro&amp;theme=default&amp;bg_color=FFFFFF&amp;border_color=D0D7DE&amp;title_color=42632E&amp;text_color=24292F&amp;icon_color=557A3F" alt="CódigoClaro repository on GitHub">
+  </picture>
+</a>
 
 [Try CódigoClaro](https://codigoclaro.onrender.com) · [Browse the code](https://github.com/JGdg9/CodigoClaro)
 
 ### GarageTrack · Vehicle maintenance and expenses
 
-[![GarageTrack repository card](https://github-readme-stats.vercel.app/api/pin/?username=JGdg9&repo=GarageTrack&theme=default&title_color=276B91&icon_color=3776AB)](https://github.com/JGdg9/GarageTrack)
-
 GarageTrack keeps each vehicle’s service history and costs together. I built the REST API with Python and FastAPI and used MySQL to link service records to vehicles. The API stores costs with decimal precision and prevents deleting a vehicle that still has maintenance records.
 
 **Built with:** Python, FastAPI, SQLAlchemy and MySQL.
 
-[![GarageTrack dashboard showing vehicles, maintenance records and expenses](https://raw.githubusercontent.com/JGdg9/GarageTrack/main/frontend/assets/dashboard.png)](https://garagetrack-demo.onrender.com/)
+<a href="https://github.com/JGdg9/GarageTrack">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=JGdg9&amp;repo=GarageTrack&amp;theme=github_dark&amp;bg_color=0D1117&amp;border_color=30363D&amp;title_color=79C0FF&amp;text_color=E6EDF3&amp;icon_color=79C0FF">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JGdg9&amp;repo=GarageTrack&amp;theme=default&amp;bg_color=FFFFFF&amp;border_color=D0D7DE&amp;title_color=245F86&amp;text_color=24292F&amp;icon_color=276B91" alt="GarageTrack repository on GitHub">
+  </picture>
+</a>
 
 [Explore the read-only demo](https://garagetrack-demo.onrender.com/) · [View the API docs](https://garagetrack-demo.onrender.com/docs) · [Browse the code](https://github.com/JGdg9/GarageTrack)
+
+<details>
+<summary>Preview the GarageTrack dashboard</summary>
+
+[![GarageTrack dashboard showing vehicles, maintenance records and expenses](https://raw.githubusercontent.com/JGdg9/GarageTrack/main/frontend/assets/dashboard.png)](https://garagetrack-demo.onrender.com/)
+
+</details>
 
 ## Education
 
@@ -92,12 +107,21 @@ Alongside backend development, I'm exploring Android development with Java and K
 
 ### Contribution streak
 
-
-[![Current streak, longest streak and total contributions for JGdg9](https://streak-stats.demolab.com?user=JGdg9&theme=default&ring=608540&fire=E57732&currStreakLabel=42632E)](https://github.com/JGdg9?tab=overview)
+<a href="https://github.com/JGdg9?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=JGdg9&amp;theme=dark&amp;background=0D1117&amp;border=30363D&amp;stroke=484F58&amp;ring=A8D88C&amp;fire=FFA657&amp;currStreakNum=F0F6FC&amp;currStreakLabel=A8D88C&amp;sideNums=F0F6FC&amp;sideLabels=C9D1D9&amp;dates=B1BAC4">
+    <img src="https://streak-stats.demolab.com/?user=JGdg9&amp;theme=default&amp;background=FFFFFF&amp;border=D0D7DE&amp;stroke=D0D7DE&amp;ring=557A3F&amp;fire=B94D17&amp;currStreakNum=24292F&amp;currStreakLabel=42632E&amp;sideNums=24292F&amp;sideLabels=34433A&amp;dates=57606A" alt="Current streak, longest streak and total contributions for JGdg9">
+  </picture>
+</a>
 
 ### Contribution graph
 
-![Contribution activity for JGdg9](https://github-readme-activity-graph.vercel.app/graph?username=JGdg9&theme=github-light&hide_border=true)
+<a href="https://github.com/JGdg9?tab=overview">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=JGdg9&amp;bg_color=0d1117&amp;color=c9d1d9&amp;title_color=e6edf3&amp;line=a8d88c&amp;point=ffa657&amp;area=true&amp;area_color=375337&amp;hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JGdg9&amp;bg_color=ffffff&amp;color=34433a&amp;title_color=24292f&amp;line=557a3f&amp;point=a84919&amp;area=true&amp;area_color=d8e8ce&amp;hide_border=true" alt="Graph of recent GitHub contributions for JGdg9">
+  </picture>
+</a>
 
 [View my contribution history on GitHub](https://github.com/JGdg9?tab=overview)
 
