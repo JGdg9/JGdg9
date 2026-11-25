@@ -4,7 +4,7 @@
 
 I'm Guille. I build web applications and REST APIs with Python and Node.js. My recent projects include CódigoClaro, a platform for learning programming through practice, and GarageTrack, an app for keeping track of vehicle maintenance and costs.
 
-[Portfolio](https://jgdg9.github.io/JGdg9/) · [LinkedIn](https://www.linkedin.com/in/juan-guillermo-dom%C3%ADnguez-guzm%C3%A1n-1924342b2/) · [Email me](mailto:jguillermodg04@gmail.com)
+[Portfolio](https://jgdg9.github.io/JGdg9/) · [LinkedIn](https://www.linkedin.com/in/juan-guillermo-dom%C3%ADnguez-guzm%C3%A1n-1924342b2/) · [Email me](mailto:jguillermodg04@gmail.com) . [Portfolio](https://jgdg9.github.io/JGdg9/)
 
 ## Featured projects
 
