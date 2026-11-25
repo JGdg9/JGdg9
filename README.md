@@ -4,7 +4,7 @@
 
 I'm Guille. I build web applications and REST APIs with Python and Node.js. My recent projects include a platform for practising programming and an app for tracking vehicle maintenance.
 
-[Portfolio](https://jgdg9.github.io/) · [Email me](mailto:jguillermodg04@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-guillermo-dom%C3%ADnguez-guzm%C3%A1n-1924342b2/)
+[Portfolio](https://jgdg9.github.io/) · [Email me](mailto:jguillermodg04@gmail.com) · [LinkedIn](https://www.linkedin.com/in/juan-guillermo-dom%C3%ADnguez-guzm%C3%A1n-1924342b2/) . [Portfolio](https://jgdg9.github.io/JGdg9/)
 
 ## Featured projects
 
